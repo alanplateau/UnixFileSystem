@@ -1,0 +1,13 @@
+#pragma once
+#define FREE_BLOCK_NUM 100
+#define FREE_INODE_NUM 20
+#define OWNER_MAX_NAME 20
+#define GROUP_MAX_NAME 20
+#define DIRECT_MAX_NAME 14
+#define ENTRY_NUM_IN_BLOCK 31
+#define MAX_PASSWORD 20
+#define SUPERSIZE 512
+#define BLOCKSIZE 512
+#define UMASK_SIZE 4
+#define TOTAL_INODE 26212
+
